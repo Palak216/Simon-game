@@ -10,14 +10,7 @@ let h2=document.querySelector("h2");
 
 
 
-// document.addEventListener("keypress",function(){
-//     if( started == false ){
-//         console.log("game is started");
-//         started=true;
 
-//         levelUp();
-//     }
-// });
 let startBtn = document.querySelector("#start-btn");
 
 startBtn.addEventListener("click", function(){
